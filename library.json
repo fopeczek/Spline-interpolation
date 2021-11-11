@@ -1,0 +1,19 @@
+{
+"name": "Spline interpolation",
+"version": "0.0.1",
+"repository":
+{
+    "type": "git",
+    "url": ""
+},
+"description": "Class that calculates interpolated spline from given vector (version for arduino)",
+"authors": [
+{
+	"name": "Mikołaj Krawczuk",
+	"email": "mikolaj@statystyka.net"
+}],
+"license": "Apache-2.0",
+"dependencies": {
+	"platformio/Streaming": ">0.0.0"
+}
+}
